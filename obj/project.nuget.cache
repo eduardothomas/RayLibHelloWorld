@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/lQtN7p/cY=",
+  "success": true,
+  "projectFilePath": "/Users/eduardo/Developer/Learning/Raylib/RayLibHelloWorld/RayLibHelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/eduardo/.nuget/packages/raylib-cs/6.1.1/raylib-cs.6.1.1.nupkg.sha512",
+    "/Users/eduardo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
